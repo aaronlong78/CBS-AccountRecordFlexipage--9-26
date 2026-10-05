@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- After this package deploys, assign CBS_Account_Record_Page as the Revenue Cloud Account app default. See DEPLOYMENT.md. -->
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
    <types>
         <members>ChartJs</members>
