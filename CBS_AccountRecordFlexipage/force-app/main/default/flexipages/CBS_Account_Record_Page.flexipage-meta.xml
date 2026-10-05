@@ -974,6 +974,16 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+                <componentName>rlmAccountAssetPortfolio</componentName>
+                <identifier>c_rlmAccountAssetPortfolio</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>Facet-06de103d-7b57-4253-a57d-60fc65398b41</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
                 <componentInstanceProperties>
                     <name>enableSidepanel</name>
                     <value>true</value>
@@ -986,6 +996,20 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>Facet-06de103d-7b57-4253-a57d-60fc65398b41</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>title</name>
+                    <value>All Services</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tab</componentName>
+                <identifier>flexipage_tab7</identifier>
+            </componentInstance>
+        </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
